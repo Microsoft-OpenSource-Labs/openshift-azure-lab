@@ -1,6 +1,6 @@
 # OpenShift on Azure
 
-> By Khaled Elbedri, January, 2017
+> By Khaled Elbedri, January, 2017 Email: khaled.elbedri@microsoft.com
 Download  the file openshift-azure.pdf or openshift-azure.docx and follow the steps.
 
 ## License
